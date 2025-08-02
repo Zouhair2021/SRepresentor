@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SRepresentor - Symbolic Representation Tool</title>
+ 
 </head>
 <body>
   <h1>SRepresentor - Symbolic Representation Tool</h1>
